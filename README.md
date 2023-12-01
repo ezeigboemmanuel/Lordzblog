@@ -14,8 +14,6 @@ Modernize your online presence with Lordzblog, a cutting-edge blog template powe
 - [Customization](#customization)
 - [Folder Structure](#folder-structure)
 - [Deployment](#deployment)
-- [Support and Documentation](#support-and-documentation)
-- [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
 
