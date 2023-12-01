@@ -196,4 +196,4 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-Lordzblog - A Zgbo Product
+Lordzblog - An Ezeigbo Emmanuel Product
