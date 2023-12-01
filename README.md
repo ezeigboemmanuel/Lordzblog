@@ -25,7 +25,6 @@ Modernize your online presence with Lordzblog, a cutting-edge blog template powe
 - Utilizes [TypeScript](https://www.typescriptlang.org/) for enhanced development.
 - Responsive design with [Tailwind CSS](https://tailwindcss.com/) for rapid styling.
 - Seamless content management through [Sanity CMS](https://www.sanity.io/).
-- [Include any additional features or benefits of your theme.]
 
 ---
 
