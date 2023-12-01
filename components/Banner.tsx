@@ -7,7 +7,7 @@ type Props = {
 };
 
 function Banner({ posts }: Props) {
-  const filteredPost = posts.filter((post) => post.title === "The Boy"); // Use the Exact title of the post you want to feature
+  const filteredPost = posts.filter((post) => post.title === "The Future of Tech: A Deep Dive into Cutting-Edge Innovations"); // Use the Exact title of the post you want to feature
   return (
     <div className="mb-10 mx-5 mt-5">
       {filteredPost.map((post) => (
