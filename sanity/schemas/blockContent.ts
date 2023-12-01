@@ -10,7 +10,7 @@ import {defineType, defineArrayMember} from 'sanity'
  *    type: 'blockContent'
  *  }
  */
-
+ 
 export default defineType({
   title: 'Block Content',
   name: 'blockContent',
@@ -70,6 +70,23 @@ export default defineType({
           title: 'Alternative Text',
         }
       ]
+    }),
+
+    defineArrayMember({
+      name: 'code',
+      title: 'Code',
+      type: 'code',
+      options: {
+        theme: 'github',
+        darkTheme: 'terminal',
+        language: 'js',
+        languageAlternatives: [
+          {title: 'Javascript', value: 'js'},
+          {title: 'HTML', value: 'html'},
+          {title: 'CSS', value: 'css'},
+        ],
+        withFilename: true,
+      },
     }),
   ],
 })
