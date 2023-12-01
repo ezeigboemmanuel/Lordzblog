@@ -36,13 +36,13 @@ Modernize your online presence with Lordzblog, a cutting-edge blog template powe
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-theme.git
+   git clone https://github.com/ezeigboemmanuel/Lordzblog.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-theme
+   cd my-app
    ```
 
 3. **Install dependencies:**
